@@ -1,9 +1,9 @@
 import React from 'react';
 import './App.css';
-import Main from "./components/Main/Main";
-import Header from "./components/Header/Header";
-import Wrapper from "./components/Wrapper/Wrapper";
-import Search from "./components/Search/Search"
+import Main from "./components/Main";
+import Header from "./components/Header";
+import Wrapper from "./components/Wrapper";
+import Search from "./components/Search"
 
 function App() {
   return (
