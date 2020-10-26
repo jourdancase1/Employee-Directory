@@ -1,10 +1,11 @@
 import React from "react"
+import DataArea from "../DataArea"
 
 function Main () {
     return (
-        <div>
-            <p>There will be a table here</p>
-        </div>
+        <>
+            <DataArea />
+        </>
     )
 }
 
