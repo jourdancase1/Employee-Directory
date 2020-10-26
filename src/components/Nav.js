@@ -1,7 +1,7 @@
 
 import React from "react";
 import SearchName from "./Search";
-// import "../styles/Nav.css";
+import "../styles/Nav.css";
 
 function Nav() {
   return (
